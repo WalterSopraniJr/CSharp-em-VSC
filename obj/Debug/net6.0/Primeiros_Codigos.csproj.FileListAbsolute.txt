@@ -1,0 +1,15 @@
+C:\Users\walte\Alura\C#\Primeiros_Codigos\obj\Debug\net6.0\Primeiros_Codigos.csproj.AssemblyReference.cache
+C:\Users\walte\Alura\C#\Primeiros_Codigos\obj\Debug\net6.0\Primeiros_Codigos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walte\Alura\C#\Primeiros_Codigos\obj\Debug\net6.0\Primeiros_Codigos.AssemblyInfoInputs.cache
+C:\Users\walte\Alura\C#\Primeiros_Codigos\obj\Debug\net6.0\Primeiros_Codigos.AssemblyInfo.cs
+C:\Users\walte\Alura\C#\Primeiros_Codigos\obj\Debug\net6.0\Primeiros_Codigos.csproj.CoreCompileInputs.cache
+C:\Users\walte\Alura\C#\Primeiros_Codigos\bin\Debug\net6.0\Primeiros_Codigos.exe
+C:\Users\walte\Alura\C#\Primeiros_Codigos\bin\Debug\net6.0\Primeiros_Codigos.deps.json
+C:\Users\walte\Alura\C#\Primeiros_Codigos\bin\Debug\net6.0\Primeiros_Codigos.runtimeconfig.json
+C:\Users\walte\Alura\C#\Primeiros_Codigos\bin\Debug\net6.0\Primeiros_Codigos.dll
+C:\Users\walte\Alura\C#\Primeiros_Codigos\bin\Debug\net6.0\Primeiros_Codigos.pdb
+C:\Users\walte\Alura\C#\Primeiros_Codigos\obj\Debug\net6.0\Primeiros_Codigos.dll
+C:\Users\walte\Alura\C#\Primeiros_Codigos\obj\Debug\net6.0\refint\Primeiros_Codigos.dll
+C:\Users\walte\Alura\C#\Primeiros_Codigos\obj\Debug\net6.0\Primeiros_Codigos.pdb
+C:\Users\walte\Alura\C#\Primeiros_Codigos\obj\Debug\net6.0\Primeiros_Codigos.genruntimeconfig.cache
+C:\Users\walte\Alura\C#\Primeiros_Codigos\obj\Debug\net6.0\ref\Primeiros_Codigos.dll

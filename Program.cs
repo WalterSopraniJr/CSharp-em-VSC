@@ -1,4 +1,10 @@
-//Imprime cada uma em uma linha
+﻿namespace HelloWorld
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+           //Imprime cada uma em uma linha
 Console.WriteLine("Hello ");
 Console.WriteLine("world!");
 
@@ -38,3 +44,6 @@ Console.WriteLine("\n");
 
 //	\u - seguido do código de caracteres de outras linguas, seguindo a tabela unicode.
 Console.WriteLine("\u0048\u0065\u006c\u006c\u006f world!");
+        }
+    }
+}
